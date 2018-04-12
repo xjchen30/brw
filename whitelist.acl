@@ -9,7 +9,7 @@
 [proxy_all]
 
 [proxy_list]
-^(.*\.)?google\.com
+^(.*\.)?google\.com$
 ^(.*\.)?google\.com\.*$
 
 [bypass_list]
